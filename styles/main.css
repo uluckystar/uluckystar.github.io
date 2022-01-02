@@ -1,0 +1,34 @@
+html {
+    background-color: #00539f;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0px 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 3px 3px 1px black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+#aimili {
+    width: 500px;
+    height: 600px;
+}
+
+#title {
+    background: linear-gradient(to right, red, orange, yellow, green, yellow, orange, red, orange, yellow, green, yellow, orange, red);
+                -webkit-background-clip: text;/*背景颜色以文本方式剪切*/
+                -webkit-text-fill-color: transparent;/*文字填充为透明色让设置的渐变色显示出来，一定要设置为透明色不然设置的渐变色无法显示出来，会被遮挡住*/
+}
