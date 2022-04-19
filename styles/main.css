@@ -17,6 +17,10 @@ h1 {
     text-shadow: 3px 3px 1px black;
 }
 
+div {
+    color: rgb(0, 195, 255);
+}
+
 img {
     display: block;
     margin: 0 auto;
