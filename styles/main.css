@@ -25,3 +25,12 @@ a:hover{
     color: #F000;
     font-size: 14px;
 }
+#menu ul li ul{
+    display: none;
+    top: 0px;
+    width: 130px;
+    border: 1px solid #CCC;
+    border-bottom: none;
+    position: absolute;
+    left: 100px;
+}
