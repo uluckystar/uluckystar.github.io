@@ -34,3 +34,6 @@ a:hover{
     position: absolute;
     left: 100px;
 }
+#menu ul li:hover ul li a{
+    display: block;
+}
