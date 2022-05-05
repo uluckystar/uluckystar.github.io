@@ -7,3 +7,21 @@
     padding: 0px;
     list-style: none;
 }
+#menu ul li{
+    background: #06c;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    border-bottom: 1px solid #999;
+    position: relative;
+}
+a{
+    display: block;
+    font-size: 13px;
+    color: #FFF;
+    text-decoration: none;
+}
+a:hover{
+    color: #F000;
+    font-size: 14px;
+}
