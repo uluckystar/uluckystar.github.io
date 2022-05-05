@@ -2,3 +2,8 @@
     width: 100px;
     border: 1px solid #999;
 }
+#menu ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
